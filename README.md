@@ -1,2 +1,2 @@
-# A-Simple-web-sites-using-html-css-
-code for this simple website using (html,css)
+# A-Simple-Web-Sites-Using-html-css-
+code for this simple website using (Html,Css)
